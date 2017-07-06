@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+    <section name="watcherEndPoints" type="MSWatchDog.Watcher.WatcherEndPointsSection, MSWatchDog" />
+    <section name="nlog" type="NLog.Config.ConfigSectionHandler, NLog"/>
+  </configSections>
+
+  <appSettings>
+    <add key="MSWatchDog.WatcherInterval" value="3"></add>
+    <add key="MSWatchDog.ToEmailsAlert" value="youremail@here.com"></add>
+    <add key="MSWatchDog.FromEmailAlert" value="youremail@here.com"></add>
+    <add key="MSWatchDog.EndPoints" value="http://amssamples.streaming.mediaservices.windows.net/91492735-c523-432b-ba01-faba6c2206a2/AzureMediaServicesPromo.ism"></add>
+    <add key="MSWatchDog.SMTPServer" value="smtp.address.net"></add>
+    <add key="MSWatchDog.SMTPUserName" value="someusername"></add>
+    <add key="MSWatchDog.SMTPPassword" value="somepassword"></add>
+  </appSettings>
+
+  <watcherEndPoints>
+    <add name="1" url="http://amssamples.streaming.mediaservices.windows.net/91492735-c523-432b-ba01-faba6c2206a2/AzureMediaServicesPromo.ism"></add>
+    <!--		
+		<add name="2" url="http://amssamples.streaming.mediaservices.windows.net/91492735-c523-432b-ba01-faba6c2206a2/AzureMediaServicesPromo.ism"></add>
+		<add name="3" url="http://amssamples.streaming.mediaservices.windows.net/91492735-c523-432b-ba01-faba6c2206a2/AzureMediaServicesPromo.ism"></add>
+		-->
+  </watcherEndPoints>
+
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+  </startup>
+  <nlog xmlns="http://www.nlog-project.org/schemas/NLog.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <targets>
+      <target name="logfile" xsi:type="File"
+					fileName="C:\projects\MSWatchDog\Loging\logger.txt"
+					layout="${longdate} - ${message}"
+					archiveFileName="C:\projects\MSWatchDog\Loging\Archive\log.{#####}.txt"
+					archiveAboveSize="2000000"
+					archiveNumbering="Sequence"
+					maxArchiveFiles="7"
+					concurrentWrites="true" />
+    </targets>
+    <rules>
+      <logger name="*" minlevel="Trace" writeTo="logfile"/>
+    </rules>
+  </nlog>
+</configuration>

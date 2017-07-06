@@ -13,7 +13,7 @@ namespace MSWatchDog.Client
     {
         static void Main(string[] args)
         {
-            string url = "https://pluginprodma.streaming.mediaservices.windows.net/b39ff8a1-8a0f-4647-8e79-0174544d4fce/%D7%94%D7%95%D7%A4%D7%94%20-%20%D7%A2%D7%95%D7%9E%D7%A8%20%D7%90%D7%93%D7%9D%20-%2055651.ism";
+            string url = "http://amssamples.streaming.mediaservices.windows.net/91492735-c523-432b-ba01-faba6c2206a2/AzureMediaServicesPromo.ism";
             string name = "someuniquename";
 
             new EndPoint(url, name).Process();

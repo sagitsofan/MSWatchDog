@@ -9,4 +9,3 @@ C:\projects\MSWatchDog\MSWatchDog.Client\bin\Debug\NLog.xml
 C:\projects\MSWatchDog\MSWatchDog.Client\obj\Debug\MSWatchDog.Client.csprojResolveAssemblyReference.cache
 C:\projects\MSWatchDog\MSWatchDog.Client\obj\Debug\MSWatchDog.Client.exe
 C:\projects\MSWatchDog\MSWatchDog.Client\obj\Debug\MSWatchDog.Client.pdb
-C:\projects\MSWatchDog\MSWatchDog.Client\obj\Debug\MSWatchDog.Client.csproj.CoreCompileInputs.cache

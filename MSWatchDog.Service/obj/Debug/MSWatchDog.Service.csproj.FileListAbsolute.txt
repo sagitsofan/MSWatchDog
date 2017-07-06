@@ -19,5 +19,4 @@ C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\Common.Logging.xml
 C:\projects\MSWatchDog\MSWatchDog.Service\obj\Debug\MSWatchDog.Service.csproj.GenerateResource.Cache
 C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.dll
 C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.dll.config
-C:\projects\MSWatchDog\MSWatchDog.Service\obj\Debug\MSWatchDog.Service.csproj.CoreCompileInputs.cache
 C:\projects\MSWatchDog\MSWatchDog.Service\obj\Debug\MSWatchDog.Logic.ProjectInstaller.resources

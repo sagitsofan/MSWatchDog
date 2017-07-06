@@ -47,7 +47,6 @@ C:\projects\MSWatchDog\MSWatchDog.AzureFunctions\bin\Debug\net461\Microsoft.Data
 C:\projects\MSWatchDog\MSWatchDog.AzureFunctions\bin\Debug\net461\Microsoft.Data.Services.Client.resources.dll
 C:\projects\MSWatchDog\MSWatchDog.AzureFunctions\bin\Debug\net461\System.Spatial.resources.dll
 C:\projects\MSWatchDog\MSWatchDog.AzureFunctions\obj\Debug\net461\MSWatchDog.AzureFunctions.csprojResolveAssemblyReference.cache
-C:\projects\MSWatchDog\MSWatchDog.AzureFunctions\obj\Debug\net461\MSWatchDog.AzureFunctions.csproj.CoreCompileInputs.cache
 C:\projects\MSWatchDog\MSWatchDog.AzureFunctions\obj\Debug\net461\MSWatchDog.AzureFunctions.AssemblyInfo.cs
 C:\projects\MSWatchDog\MSWatchDog.AzureFunctions\obj\Debug\net461\MSWatchDog.AzureFunctions.dll
 C:\projects\MSWatchDog\MSWatchDog.AzureFunctions\obj\Debug\net461\MSWatchDog.AzureFunctions.pdb
