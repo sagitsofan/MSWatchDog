@@ -1,0 +1,15 @@
+{
+  "bindings": [
+    {
+      "type": "timerTrigger",
+      "schedule": "0 */5 * * * *",
+      "useMonitor": true,
+      "runOnStartup": false,
+      "direction": "in",
+      "name": "myTimer"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "..\\MSWatchDog.AzureFunctions.dll",
+  "entryPoint": "MSWatchDog.AzureFunctions.MediaServicesWatchDog.Run"
+}

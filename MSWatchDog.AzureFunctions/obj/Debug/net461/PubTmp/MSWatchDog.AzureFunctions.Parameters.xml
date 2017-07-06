@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="PluginFunctions" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\projects\\MSWatchDog\\MSWatchDog\.AzureFunctions\\obj\\Debug\\net461\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

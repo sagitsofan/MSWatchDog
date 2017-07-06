@@ -1,0 +1,12 @@
+C:\projects\MSWatchDog\MSWatchDog.Client\bin\Debug\MSWatchDog.Client.exe.config
+C:\projects\MSWatchDog\MSWatchDog.Client\bin\Debug\MSWatchDog.Client.exe
+C:\projects\MSWatchDog\MSWatchDog.Client\bin\Debug\MSWatchDog.Client.pdb
+C:\projects\MSWatchDog\MSWatchDog.Client\bin\Debug\MSWatchDog.dll
+C:\projects\MSWatchDog\MSWatchDog.Client\bin\Debug\NLog.dll
+C:\projects\MSWatchDog\MSWatchDog.Client\bin\Debug\MSWatchDog.pdb
+C:\projects\MSWatchDog\MSWatchDog.Client\bin\Debug\MSWatchDog.dll.config
+C:\projects\MSWatchDog\MSWatchDog.Client\bin\Debug\NLog.xml
+C:\projects\MSWatchDog\MSWatchDog.Client\obj\Debug\MSWatchDog.Client.csprojResolveAssemblyReference.cache
+C:\projects\MSWatchDog\MSWatchDog.Client\obj\Debug\MSWatchDog.Client.exe
+C:\projects\MSWatchDog\MSWatchDog.Client\obj\Debug\MSWatchDog.Client.pdb
+C:\projects\MSWatchDog\MSWatchDog.Client\obj\Debug\MSWatchDog.Client.csproj.CoreCompileInputs.cache

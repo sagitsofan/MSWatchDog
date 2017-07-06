@@ -1,0 +1,120 @@
+﻿Uninstalling assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe assembly.
+Installing assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe assembly.
+Committing assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe assembly.
+Installing assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe assembly.
+Committing assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe assembly.
+Installing assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe assembly.
+Committing assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+Removing EventLog source MSWatchDog Service.
+Warning: The source MSWatchDog Service is not registered on the local machine.
+Service MSWatchDog Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+Installing service MSWatchDog Service...
+Creating EventLog source MSWatchDog Service in log Application...
+Rolling back assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+Restoring event log to previous state for source MSWatchDog Service.
+Uninstalling assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+Removing EventLog source MSWatchDog Service.
+Warning: The source MSWatchDog Service is not registered on the local machine.
+Service MSWatchDog Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
+Installing service MSWatchDog Service...
+Service MSWatchDog Service has been successfully installed.
+Creating EventLog source MSWatchDog Service in log Application...
+Committing assembly 'C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.InstallLog
+   assemblypath = C:\projects\MSWatchDog\MSWatchDog.Service\bin\Debug\MSWatchDog.Service.exe
+   servicename = MSWatchDog Service
