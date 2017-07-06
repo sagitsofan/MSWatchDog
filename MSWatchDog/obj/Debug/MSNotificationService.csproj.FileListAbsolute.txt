@@ -1,0 +1,6 @@
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSNotificationService\MSNotificationService\bin\Debug\MSNotificationService.exe.config
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSNotificationService\MSNotificationService\bin\Debug\MSNotificationService.exe
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSNotificationService\MSNotificationService\bin\Debug\MSNotificationService.pdb
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSNotificationService\MSNotificationService\obj\Debug\MSNotificationService.csprojResolveAssemblyReference.cache
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSNotificationService\MSNotificationService\obj\Debug\MSNotificationService.exe
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSNotificationService\MSNotificationService\obj\Debug\MSNotificationService.pdb

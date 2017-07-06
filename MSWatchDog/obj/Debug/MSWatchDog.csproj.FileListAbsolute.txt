@@ -1,0 +1,27 @@
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSNotificationService\MSNotificationService\bin\Debug\MSWatchDog.exe.config
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSNotificationService\MSNotificationService\bin\Debug\MSWatchDog.exe
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSNotificationService\MSNotificationService\bin\Debug\MSWatchDog.pdb
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSNotificationService\MSNotificationService\obj\Debug\MSWatchDog.csprojResolveAssemblyReference.cache
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSNotificationService\MSNotificationService\obj\Debug\MSWatchDog.exe
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSNotificationService\MSNotificationService\obj\Debug\MSWatchDog.pdb
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSWatchDog\MSWatchDog\bin\Debug\MSWatchDog.exe.config
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSWatchDog\MSWatchDog\bin\Debug\MSWatchDog.exe
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSWatchDog\MSWatchDog\bin\Debug\MSWatchDog.pdb
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSWatchDog\MSWatchDog\obj\Debug\MSWatchDog.csprojResolveAssemblyReference.cache
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSWatchDog\MSWatchDog\obj\Debug\MSWatchDog.exe
+C:\Users\sagi.tsofan\Desktop\MediaServices Crowler\MSWatchDog\MSWatchDog\obj\Debug\MSWatchDog.pdb
+C:\projects\MSWatchDog\MSWatchDog\bin\Debug\MSWatchDog.pdb
+C:\projects\MSWatchDog\MSWatchDog\bin\Debug\NLog.dll
+C:\projects\MSWatchDog\MSWatchDog\bin\Debug\NLog.xml
+C:\projects\MSWatchDog\MSWatchDog\obj\Debug\MSWatchDog.csprojResolveAssemblyReference.cache
+C:\projects\MSWatchDog\MSWatchDog\obj\Debug\MSWatchDog.pdb
+C:\projects\MSWatchDog\MSWatchDog\bin\Debug\Common.Logging.Core.dll
+C:\projects\MSWatchDog\MSWatchDog\bin\Debug\Common.Logging.dll
+C:\projects\MSWatchDog\MSWatchDog\bin\Debug\Common.Logging.pdb
+C:\projects\MSWatchDog\MSWatchDog\bin\Debug\Common.Logging.xml
+C:\projects\MSWatchDog\MSWatchDog\bin\Debug\Common.Logging.Core.pdb
+C:\projects\MSWatchDog\MSWatchDog\bin\Debug\Common.Logging.Core.xml
+C:\projects\MSWatchDog\MSWatchDog\bin\Debug\MSWatchDog.dll.config
+C:\projects\MSWatchDog\MSWatchDog\bin\Debug\MSWatchDog.dll
+C:\projects\MSWatchDog\MSWatchDog\obj\Debug\MSWatchDog.dll
+C:\projects\MSWatchDog\MSWatchDog\obj\Debug\MSWatchDog.csproj.CoreCompileInputs.cache
