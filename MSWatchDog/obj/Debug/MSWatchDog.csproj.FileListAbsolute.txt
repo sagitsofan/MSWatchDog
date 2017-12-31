@@ -24,4 +24,3 @@ C:\projects\MSWatchDog\MSWatchDog\bin\Debug\Common.Logging.Core.xml
 C:\projects\MSWatchDog\MSWatchDog\bin\Debug\MSWatchDog.dll.config
 C:\projects\MSWatchDog\MSWatchDog\bin\Debug\MSWatchDog.dll
 C:\projects\MSWatchDog\MSWatchDog\obj\Debug\MSWatchDog.dll
-C:\projects\MSWatchDog\MSWatchDog\obj\Debug\MSWatchDog.csproj.CoreCompileInputs.cache

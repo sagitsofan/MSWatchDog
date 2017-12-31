@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETFramework,Version=v4.6.1": {
       "Microsoft.AspNet.WebApi.Client/5.2.3": {
@@ -622,6 +622,10 @@
           "lib/net46/System.Net.Http.dll": {}
         },
         "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.6/System.Net.Http.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          },
           "runtimes/win/lib/net46/System.Net.Http.dll": {
             "assetType": "runtime",
             "rid": "win"
@@ -799,6 +803,14 @@
           "lib/net461/System.Security.Cryptography.Algorithms.dll": {}
         },
         "runtimeTargets": {
+          "runtimes/osx/lib/netstandard1.6/System.Security.Cryptography.Algorithms.dll": {
+            "assetType": "runtime",
+            "rid": "osx"
+          },
+          "runtimes/unix/lib/netstandard1.6/System.Security.Cryptography.Algorithms.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          },
           "runtimes/win/lib/net461/System.Security.Cryptography.Algorithms.dll": {
             "assetType": "runtime",
             "rid": "win"
@@ -858,6 +870,10 @@
           "lib/net461/System.Security.Cryptography.X509Certificates.dll": {}
         },
         "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.6/System.Security.Cryptography.X509Certificates.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          },
           "runtimes/win/lib/net461/System.Security.Cryptography.X509Certificates.dll": {
             "assetType": "runtime",
             "rid": "win"
@@ -1045,7 +1061,13 @@
         }
       },
       "MSWatchDog/1.0.0": {
-        "type": "project"
+        "type": "project",
+        "compile": {
+          "bin/placeholder/MSWatchDog.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MSWatchDog.dll": {}
+        }
       }
     }
   },
@@ -4178,19 +4200,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sagi.tsofan\\.nuget\\packages\\": {}
+    "C:\\Users\\sagi.tsofan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\projects\\MSWatchDog\\MSWatchDog.AzureFunctions\\MSWatchDog.AzureFunctions.csproj",
       "projectName": "MSWatchDog.AzureFunctions",
       "projectPath": "C:\\projects\\MSWatchDog\\MSWatchDog.AzureFunctions\\MSWatchDog.AzureFunctions.csproj",
+      "packagesPath": "C:\\Users\\sagi.tsofan\\.nuget\\packages\\",
       "outputPath": "C:\\projects\\MSWatchDog\\MSWatchDog.AzureFunctions\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\sagi.tsofan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "net461"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net461": {
           "projectReferences": {
@@ -4199,37 +4237,64 @@
             }
           }
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
       "net461": {
         "dependencies": {
-          "Microsoft.NET.Sdk.Functions": {
-            "target": "Package",
-            "version": "1.0.0-alpha3"
-          },
-          "Microsoft.Azure.WebJobs.Extensions.Http": {
-            "target": "Package",
-            "version": "1.0.0-beta1"
-          },
           "Microsoft.Azure.WebJobs": {
             "target": "Package",
-            "version": "2.1.0-beta1"
+            "version": "[2.1.0-beta1, )"
           },
           "Microsoft.Azure.WebJobs.Extensions": {
             "target": "Package",
-            "version": "2.1.0-beta1"
+            "version": "[2.1.0-beta1, )"
+          },
+          "Microsoft.Azure.WebJobs.Extensions.Http": {
+            "target": "Package",
+            "version": "[1.0.0-beta1, )"
           },
           "Microsoft.Azure.WebJobs.ServiceBus": {
             "target": "Package",
-            "version": "2.1.0-beta1"
+            "version": "[2.1.0-beta1, )"
+          },
+          "Microsoft.NET.Sdk.Functions": {
+            "target": "Package",
+            "version": "[1.0.0-alpha3, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "10.0.2"
+            "version": "[10.0.2, )"
           }
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NET.Sdk.Functions 1.0.0-alpha3 depends on Microsoft.Build.Framework (>= 15.1.298-preview5) but Microsoft.Build.Framework 15.1.298-preview5 was not found. An approximate best match of Microsoft.Build.Framework 15.1.548 was resolved.",
+      "libraryId": "Microsoft.Build.Framework",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NET.Sdk.Functions 1.0.0-alpha3 depends on Microsoft.Build.Utilities.Core (>= 15.1.298-preview5) but Microsoft.Build.Utilities.Core 15.1.298-preview5 was not found. An approximate best match of Microsoft.Build.Utilities.Core 15.1.548 was resolved.",
+      "libraryId": "Microsoft.Build.Utilities.Core",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    }
+  ]
 }
